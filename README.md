@@ -1,4 +1,4 @@
-# Track Phone Number Location using Python phonenumbers library
+# Track Phone Number Location using Python
 
 This script uses the phonenumbers library in Python to track the location of a given phone number. The script is easy to use and requires minimal coding knowledge.
 
